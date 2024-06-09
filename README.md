@@ -16,22 +16,21 @@ This project aims to explore the efficacy of SVM algorithms for PD identificatio
 
 ### Outcome
 
-<div style="display: flex; justify-content: space-around;">
-    <div>
+<div style="display: flex; justify-content: space-between;">
+    <div style="text-align: center; margin-right: 20px;">
         <h3>Model Evaluation</h3>
-        <p>
-            Evaluate SVM model's accuracy, recall, F1 score, and AUC on test dataset.<br>
-            Model Accuracy: 92.3%<br>
-            Precision, recall, and F1 score indicate effective classification.
+        <p>- Evaluate SVM model's accuracy, recall, F1 score, and AUC on test dataset.<br>
+           - Model Accuracy: 92.3%<br>
+           - Precision, recall, and F1 score indicate effective classification.
         </p>
         <img src="https://github.com/sanika391/Parkinsons_Disease_Detection/assets/116996971/56cef79e-27db-4cec-b246-71e466a17906" alt="Model Evaluation Screenshot" style="width: 300px;">
     </div>
-    <div>
+    <div style="text-align: center; margin-left: 20px;">
         <h3>Model Deployment</h3>
-        <p>
-            Deploy trained SVM model for real-world Parkinson's disease detection.<br>
-            Utilize Streamlit for a user-friendly web interface.
+        <p>- Deploy trained SVM model for real-world Parkinson's disease detection.<br>
+           - Utilize Streamlit for a user-friendly web interface.
         </p>
         <img src="https://github.com/sanika391/Parkinsons_Disease_Detection/assets/116996971/164576b2-0862-450a-aabe-fc3f59a0c9c0" alt="Model Deployment Screenshot" style="width: 300px;">
     </div>
 </div>
+
