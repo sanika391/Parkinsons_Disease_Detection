@@ -34,7 +34,7 @@ This project aims to explore the efficacy of SVM algorithms for PD identificatio
     </div>
 </div>
 
-### Application of Parkinson's Disease Detection Using Vocal Data
+### Application of Parkinson's Disease Detection Using Vocal Data.
 
 - Early Diagnosis: Detects Parkinson's disease at an early stage using vocal biomarkers.
 - Non-Invasive Testing: Provides a convenient, non-invasive method for regular health monitoring.
